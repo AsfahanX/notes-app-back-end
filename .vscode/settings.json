@@ -1,0 +1,12 @@
+{
+    "[javascript]": {
+      "editor.detectIndentation": false,
+      "editor.tabSize": 2,
+      "files.eol": "\n"
+    },
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "files.simpleDialog.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    
+}
